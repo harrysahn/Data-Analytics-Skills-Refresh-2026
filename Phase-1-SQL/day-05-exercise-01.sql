@@ -1,11 +1,10 @@
 -- Platform: StrataScratch
--- Problem Name: MacBookPro User Event Count
--- URL: https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=1
--- Task: Count the number of user events performed by MacBookPro users. Output the result along with the event name. Sort the result based on the event count in the descending order.
+-- Problem Name: Wine varieties tasted by 'Roger Voss'
+-- URL: https://platform.stratascratch.com/coding/10024-wine-varieties-tasted-by-roger-voss?code_type=3
+-- Task: Find wine varieties tasted by 'Roger Voss' and with a value in the 'region_1' column of the dataset. Output unique variety names only.
 -- Difficulty: Easy
 
-select event_name, count(*) as event_count
-from playbook_events
-where device = 'macbook pro'
-group by event_name
-order by event_count desc
+select distinct variety
+from winemag_p2
+where taster_name = 'Roger Voss'
+and region_1 is not null;
