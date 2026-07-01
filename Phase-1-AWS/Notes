@@ -11,3 +11,6 @@ This is your cloud file cabinet. It’s where raw data files (like CSVs of progr
 
 Amazon Redshift / Athena: 
 The querying layers. Redshift is AWS’s heavy-duty cloud data warehouse (similar to BigQuery), while Athena lets you write SQL queries directly on top of raw files sitting in S3.
+
+The S3 "Data Bucket" Exercise (Hands-on data ingestion task):
+- Log into your AWS Console and search for S3.
