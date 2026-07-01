@@ -14,3 +14,4 @@ The querying layers. Redshift is AWS’s heavy-duty cloud data warehouse (simila
 
 The S3 "Data Bucket" Exercise (Hands-on data ingestion task):
 - Log into your AWS Console and search for S3.
+- Create a "Bucket"
