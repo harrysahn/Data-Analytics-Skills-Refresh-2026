@@ -11,3 +11,9 @@ Welcome to my upskilling repository! This space documents my day-to-day progress
 - [ ] **Phase 5: Capstone Portfolio Pipeline** (November - December) ⏳ *Pending*
 
 * **Day X (June):** Provisioned an AWS Free Tier account, configured IAM security access controls, and successfully deployed a cloud data-lake landing zone using Amazon S3. Uploaded raw tabular datasets to prepare for upcoming SQL schema migrations.
+
+* Technical Stack I'm Building
+* **Data Querying & Manipulation:** SQL (Advanced Joins, CTEs, Window Functions), Python (Pandas, NumPy)
+* **Statistics & Experimentation:** A/B Testing Architecture, Hypothesis Testing (t-tests, Chi-Square), Probability, SciPy
+* **Business Intelligence & Analytics:** Power BI / Tableau (Data Storytelling & UX Dashboarding)
+* **Cloud Computing Environments:** Google Cloud Platform (BigQuery) & Amazon Web Services (S3/Redshift basics)
