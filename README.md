@@ -9,3 +9,5 @@ Welcome to my upskilling repository! This space documents my day-to-day progress
 - [ ] **Phase 3: Python for Data Analysis** (August - September) ⏳ *Pending*
 - [ ] **Phase 4: Cloud Data Warehousing** (October) ⏳ *Pending*
 - [ ] **Phase 5: Capstone Portfolio Pipeline** (November - December) ⏳ *Pending*
+
+* **Day X (June):** Provisioned an AWS Free Tier account, configured IAM security access controls, and successfully deployed a cloud data-lake landing zone using Amazon S3. Uploaded raw tabular datasets to prepare for upcoming SQL schema migrations.
